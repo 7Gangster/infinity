@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<meta>
+     <script src="script.lua" type="client" />
+     <file src="Banco.txd" cache="false" />
+     <file src="Banco.dff" cache="false" />
+     <file src="Banco.col" cache="false" />
+</meta>

@@ -1,0 +1,7 @@
+local txd = engineLoadTXD("Motoclub.txd")
+engineImportTXD(txd, 12976)
+local dff = engineLoadDFF("Motoclub.dff")
+engineReplaceModel(dff, 12976)
+local col = engineLoadCOL("Motoclub.col")
+engineReplaceCOL(col, 12976)
+engineSetModelLODDistance( 12976, 5000 )

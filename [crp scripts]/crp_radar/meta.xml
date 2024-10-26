@@ -1,0 +1,85 @@
+<meta>
+    <script type="client" src="config.lua" cache="false" />
+    <script type="client" src="library/async.lua" cache="false" />
+    <script type="client" src="utils/responsive.lua" cache="false" />
+    <!--<script type="client" src="interface/management.lua" cache="false" /> -->
+<!--     <script type="client" src="interface/defaultRender.lua" cache="false" /> -->
+    <script type="client" src="interface/main.lua" cache="false" />
+    <script type="client" src="gps/vehicleNodes.lua" />
+    <script type="client" src="gps/gps.lua" cache="false" />
+    <script type="server" src="gps/tpway.lua" />
+    
+    
+    <export type="client" function="addCustomBlip" />
+    <export type="client" function="delCustomBlip" />
+    <export type="client" function="showMap" />
+
+    <export function="addBlip" type="client" />
+    <export function="toggleRadar" type="client" />
+    <export function="setVisible" type="client" />
+
+    <file src='gps/images/dot.png' />
+
+    <file src='files/waypoint.png' />
+    <file src='files/circle.png' />
+    <file src='files/circle2.png' />
+    <file src='files/cross.png' />
+    <file src='files/effectWaypoint.png' />
+    <file src='files/mask.png' />
+    <file src='files/mask2.png' />
+    <file src='files/filter.png' />
+    <file src='files/arrow.png' />
+    <file src='files/radar.png' />
+
+    <file src='files/blips/0.png' /> 
+    <file src='files/blips/17.png' /> 
+    <file src='files/blips/16.png' /> 
+    <file src='files/blips/10.png' />
+    <file src='files/blips/41.png' />  
+    <file src='files/blips/44.png' />  
+    <file src='files/blips/45.png' /> 
+    <file src='files/blips/46.png' />
+    <file src='files/blips/47.png' />  
+    <file src='files/blips/48.png' />  
+    <file src='files/blips/49.png' />
+    <file src='files/blips/50.png' /> 
+    <file src='files/blips/51.png' />
+    <file src='files/blips/52.png' />  
+    <file src='files/blips/53.png' />  
+    <file src='files/blips/54.png' />
+    <file src='files/blips/55.png' />
+    <file src='files/blips/56.png' /> 
+    <file src='files/blips/57.png' />
+    <file src='files/blips/58.png' />  
+    <file src='files/blips/59.png' />  
+    <file src='files/blips/60.png' />
+    <file src='files/blips/61.png' />
+    <file src='files/blips/62.png' /> 
+    <file src='files/blips/63.png' />
+    <file src='files/blips/11.png' />
+    <file src='files/blips/12.png' />
+    <file src='files/blips/13.png' />
+    <file src='files/blips/14.png' />
+    <file src='files/blips/18.png' />
+    <file src='files/blips/33.png' />
+    <file src='files/blips/21.png' />
+    <file src='files/blips/zona.png' />
+    <file src='files/blips/halloween.png' />
+    <file src='files/blips/26.png' />
+
+
+    <file src='files/hud_mask.fx' />
+    <file src='files/include/tex_matrix.fx' />
+
+
+    <file src='files/Roboto.ttf' />
+    <file src='files/SFProDisplayBold.otf' />
+    <file src='files/SFProDisplayMedium.otf' />
+
+    <export function="toggleHUD" type="client" />
+    <export function="isHudVisible" type="client" />
+    <export function="isHudElementVisible" type="client" />
+    <export function="getResponsiveMultipler" type="client" />
+
+    <min_mta_version server="1.5.8-9.28979" client="1.5.8-9.28979" />
+</meta>

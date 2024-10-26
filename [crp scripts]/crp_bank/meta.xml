@@ -1,0 +1,28 @@
+<meta>
+	<!-- Auto generated using VSCode MTA:SA Lua by Subtixx -->
+	<info author="VSCode MTA:SA Lua" type="script" name="crp_bank" version="1.0" />
+
+	<script src="cfg.lua" type="shared" />
+
+	<script src="src/client/main.lua" type="client" cache = 'false'/>
+	<script src="src/client/svg.lua" type="client" cache = 'false'/>
+	<script src="src/server/main.lua" type="server"/>
+	<script src="src/shared/responsive.lua" type="client" cache = 'false'/>
+
+	<file src="src/assets/bank.png" />
+
+	<file src="src/assets/fonts/Poppins-Bold.ttf" />
+	<file src="src/assets/fonts/Poppins-Medium.ttf" />
+	<file src="src/assets/fonts/Poppins-Regular.ttf" />
+	<file src="src/assets/fonts/Poppins-SemiBold.ttf" />
+	<file src="src/assets/fonts/Roboto-Bold.ttf" />
+	<file src="src/assets/fonts/Roboto-Medium.ttf" />
+	<file src="src/assets/fonts/Roboto-Regular.ttf" />
+
+	<export function = 'getAccounts' type='server'/>
+	<export function = 'getSaldoAccount' type='server'/>
+	<export function = 'getMainAccount' type='server'/>
+	<export function = 'updateSaldo' type='server'/>
+
+	<min_mta_version server="1.5.2-9.07903" client="1.3.0-9.04431" />
+</meta>

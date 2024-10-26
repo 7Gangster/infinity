@@ -1,0 +1,25 @@
+<meta>
+    <info author="gugal28 and agatreix" name="Camera system to Class RP" version="1.0.0"/>
+
+    <!-- SERVER -->
+    <script src="src/server/utils.lua" type="server"/>
+    <script src="src/server/saveTheImage.lua" type="server"/>
+    <!-- -->
+
+    <!-- CLIENT -->
+    <script src="src/client/takePicture.lua" type="client" cache="false"/>
+    <!-- -->
+
+    <!-- EXPORTS -->
+        <!-- CLIENT-->
+        <export function="takePicture" type="client"/>
+        <export function="getPictures" type="client"/>
+        <!-- -->
+
+        <!-- SERVER -->
+        <export function="getPictures" type="server"/>
+        <!-- -->
+    <!-- -->
+
+    <min_mta_version client="1.3.0-9.04431"/>
+</meta>

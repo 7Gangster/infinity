@@ -1,0 +1,17 @@
+<meta>
+
+	<info author = "Diigo" type = "script" name = "System BodyCam" version = "0.1.0" />
+
+	<script src = "config.lua" type = "shared" cache = 'false'/>
+
+	<script src = "archives/source/client/main.lua" type = "client" cache = 'false'/>
+	<script src = "archives/source/server/main.lua" type = "server" />
+
+	<file src = "archives/assets/imgs/background.png" />
+	<file src = "archives/assets/imgs/circle.png" />
+	
+	<file src = "archives/assets/imgs/groups/police.png" />
+
+	<file src = "archives/assets/fonts/Regular.ttf" />
+
+</meta>

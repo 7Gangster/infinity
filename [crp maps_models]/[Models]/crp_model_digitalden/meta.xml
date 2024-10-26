@@ -1,0 +1,9 @@
+<meta>
+	<info author="JuninUsaXiti" version="1" name="Concecionária" type="script" />
+
+	<script src="client.lua" type="client" />    
+     <file src="digitalden.txd" />
+     <file src="digitalden.dff" />
+     <file src="1.col" />
+
+</meta>

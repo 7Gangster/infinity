@@ -1,0 +1,11 @@
+<meta>
+    <info author='Diigo' name='Loadscren' version='0.0.1'/>
+
+    <script src='archives/source/server/manager.lua'/>
+    <script src='archives/source/client/main.lua' type='client' cache='false'/>
+
+    <file src='archives/assets/imgs/background.png'/>
+    <file src='archives/assets/imgs/loading.png'/>
+    <file src='archives/assets/font/font.ttf'/>
+    <download_priority_group>9999</download_priority_group>
+</meta>

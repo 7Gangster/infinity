@@ -1,0 +1,71 @@
+<meta>
+    <script src="gJoao.lua" type="shared" cache="false" />
+    <script src="sJoao.lua" type="server" cache="false" />
+    <script src="cJoao.lua" type="client" cache="false" />
+
+    <file src="files/ifp/abdominal.ifp" />
+    <file src="files/ifp/breakdance1.ifp" />
+    <file src="files/ifp/breakdance2.ifp" />
+    <file src="files/ifp/continencia.ifp" />
+    <file src="files/ifp/flexao.ifp" />
+    <file src="files/ifp/fortnite1.ifp" />
+    <file src="files/ifp/fortnite2.ifp" />
+    <file src="files/ifp/fortnite3.ifp" />
+    <file src="files/ifp/newAnims.ifp" />
+    <file src="files/ifp/render.ifp" />
+    <file src="files/ifp/sex.ifp" />
+    <file src="files/ifp/segurando.ifp" />
+    <file src="files/object/prancheta.txd" />
+	<file src="files/object/prancheta.dff" />
+	<file src="files/object/maleta.txd" />
+	<file src="files/object/maleta.dff" />
+	<file src="files/object/umbrella.txd" />
+	<file src="files/object/umbrella.dff" />
+    <file src="files/object/camera.txd" />
+	<file src="files/object/camera.dff" />
+     <file src="files/object/radinho.txd" />
+	<file src="files/object/radinho.dff" />
+
+
+    <file src="files/imgs/roleta.png" />
+    <file src="files/imgs/bar.png" />
+    <file src="files/imgs/base.png" />
+    <file src="files/imgs/cage.png" />
+    <file src="files/imgs/cage_2.png" />
+    <file src="files/imgs/cage_select.png" />
+    <file src="files/imgs/star.png" />
+    <file src="files/imgs/star_select.png" />
+    <file src="files/imgs/scroll.png" />
+    <file src="files/imgs/icons/dancas.png" />
+    <file src="files/imgs/icons/estilo.png" />
+    <file src="files/imgs/icons/interacoes.png" />
+    <file src="files/imgs/icons/outros.png" />
+    <file src="files/imgs/icons/social.png" />
+    <file src="files/imgs/icons/vips.png" />
+    
+    <file src="files/imgs/icons_favorite/dancas.png" />
+    <file src="files/imgs/icons_favorite/estilo.png" />
+    <file src="files/imgs/icons_favorite/interacoes.png" />
+    <file src="files/imgs/icons_favorite/outros.png" />
+    <file src="files/imgs/icons_favorite/social.png" />
+    <file src="files/imgs/icons_favorite/vips.png" />
+
+    <file src="files/imgs/icons_favorite/dancas_select.png" />
+    <file src="files/imgs/icons_favorite/estilo_select.png" />
+    <file src="files/imgs/icons_favorite/interacoes_select.png" />
+    <file src="files/imgs/icons_favorite/outros_select.png" />
+    <file src="files/imgs/icons_favorite/social_select.png" />
+    <file src="files/imgs/icons_favorite/vips_select.png" />
+
+    <file src="files/fonts/Roboto-Black.ttf" />
+    <file src="files/fonts/Roboto-Medium.ttf" />
+    <file src="files/fonts/Roboto-Bold.ttf" />
+    <file src="files/fonts/Roboto-Light.ttf" />
+    <file src="files/fonts/Roboto-Regular.ttf" />
+
+    <file src="files/fonts/OpenSans-SemiBold.ttf" />
+    <file src="files/fonts/OpenSans-Medium.ttf" />
+    <file src="files/fonts/OpenSans-Bold.ttf" />
+    <file src="files/fonts/OpenSans-Light.ttf" />
+    <file src="files/fonts/OpenSans-Regular.ttf" />
+</meta>

@@ -1,0 +1,8 @@
+﻿
+<meta>
+     <info author="Ramos" type="misc" name="GDP" description="Angels" />
+     <script src="script.lua" type="client" />
+     <file src="bg.txd" />
+     <file src="burguer.dff" />
+     <file src="burguer.col" />
+</meta>

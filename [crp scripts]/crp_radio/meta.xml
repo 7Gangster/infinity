@@ -1,0 +1,13 @@
+<meta>
+    <script src = 'config.lua' type = 'shared' cache = 'false'/>
+    <!--script src = 'script/client/responsive.lua' type = 'client' cache = 'false'/-->
+    <script src = 'script/server/manager.lua'/>
+    <script src = 'script/client/utils.lua' type = 'client' cache = 'false'/>
+    <script src = 'script/client/panel.lua' type = 'client' cache = 'false'/>
+    <script src = 'script/client/main.lua' type = 'client' cache = 'false'/>
+
+    <file src = 'public/fonts/medium.ttf'/>
+    <file src = 'public/images/radio.png'/>
+    <file src = 'public/models/radio.dff'/>
+    <file src = 'public/models/radio.txd'/>
+</meta>

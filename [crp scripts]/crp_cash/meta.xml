@@ -1,0 +1,32 @@
+<meta>
+    <oop>true</oop>
+    <info author='NotryTv' description='class_identify'/>
+
+    <!-- Config -->
+
+    <script src = 'config.lua' type = 'shared' cache = 'false' />
+
+    <!-- Utils -->
+
+    <script src = 'source/utils.lua' type = 'client' cache = 'false' />
+
+    <!-- Server -->
+
+    <script src = 'source/server.lua' type = 'server' cache = 'false' />
+
+    <!-- Client -->
+
+    <script src = 'source/client.lua' type = 'client' cache = 'false' />
+
+    <!-- Fonts -->
+
+    <file src = 'assets/fonts/bold.ttf' />
+    <file src = 'assets/fonts/alex.ttf' />
+
+    <!-- Images -->
+
+    <file src = 'assets/images/base.png' />
+    <file src = 'assets/images/base2.png' />
+
+    
+</meta>

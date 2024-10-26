@@ -1,0 +1,7 @@
+<meta>
+    <info author="TR4LDIN" name="Ballas" version="1.5.6" type="script" />
+    <script src="replace.lua" type="client" cache="false" />
+	<file src="gueto4.dff" />
+	<file src="gueto4.col" />
+	<file src="gueto4.txd" />
+</meta>

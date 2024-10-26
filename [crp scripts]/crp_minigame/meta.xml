@@ -1,0 +1,7 @@
+<meta>
+    <script src='config.lua' type='shared'/>
+
+    <script src='client.lua' type='client'/>
+
+    <file src='assets/Poppins-Regular.ttf'/>
+</meta>

@@ -1,0 +1,12 @@
+<meta>
+    <info author = 'Diigo' name = 'Police Garage' version = '0.1.0'/>
+
+    <script src = 'archives/source/config.lua' type = 'shared' cache = 'false'/>
+    <script src = 'archives/source/server/main.lua'/>
+    <script src = 'archives/source/client/main.lua' type = 'client' cache = 'false'/>
+
+    <file src = 'archives/assets/imgs/select_bg.png'/>
+    <file src = 'archives/assets/imgs/arrow.png'/>
+
+    <file src = 'archives/assets/fonts/regular.ttf'/>
+</meta>

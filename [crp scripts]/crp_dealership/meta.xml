@@ -1,0 +1,28 @@
+<meta>
+	<!-- Auto generated using VSCode MTA:SA Lua by Subtixx -->
+	<info author="agatreix" type="script" name="crp_dealership" version="1" />
+	<script src="shared.lua" type="shared" />
+
+	<!-- Concessionaria -->
+	<script src="src/client/main.lua" type="client" />
+	<script src="src/server/main.lua" type="server" />
+
+	<!-- Garagem -->
+	<script src="src/server/garagem.lua" type="server" />
+
+	<!-- Desmanche -->
+	<script src="src/server/desmanche.lua" type="server" />
+
+
+	<file src='src/assets/Inter-Regular.ttf'/>
+	<file src='src/assets/Inter-SemiBold.ttf'/>
+
+	<script src='src/assets/interior/script.lua' type='client' />  
+	<file src='src/assets/interior/MTASAMODS.txd' type='client' />  
+	<file src='src/assets/interior/MTASAMODS.col' type='client' />
+	<file src='src/assets/interior/MTASAMODS.dff' type='client' />
+
+	<export function = 'getConfig' type = 'shared' />
+	<export function = 'leaveGarage' type = 'server' />
+
+</meta>

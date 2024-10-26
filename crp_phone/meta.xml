@@ -1,0 +1,84 @@
+<meta>
+    <oop>true</oop>
+    <info author='Class Development Group' description='crp_phone'/>
+
+    <script src = 'cfg.lua' type = 'shared' cache = 'false' />
+
+    <!-- Utils -->
+
+    <script src = 'source/utils.lua' type = 'client' cache = 'false' />
+
+    <!-- Server -->
+
+    <script src = 'source/server.lua' type = 'server' cache = 'false' />
+    <script src = 'source/cameraS.lua' type = 'server' cache = 'false' />
+
+    <!-- Client -->
+
+    <script src = 'source/client.lua' type = 'client' cache = 'false' />
+    <script src = 'source/cameraC.lua' type = 'client' cache = 'false' />
+
+    <!-- Images -->
+
+    <file src = 'assets/images/barrinha.png' />
+    <file src = 'assets/images/background.png' />
+    <file src = 'assets/images/basenotify.png' />
+
+    <file src = 'assets/images/wallpaper.png' />
+    <file src = 'assets/images/cameraelight.png' />
+    <file src = 'assets/images/home.png' />
+    <file src = 'assets/images/lock.png' />
+    <file src = 'assets/images/overlay.png' />
+    <file src = 'assets/images/stats.png' />
+    <file src = 'assets/images/icons/8.png' />
+    <file src = 'assets/images/icons/13.png' />
+    <file src = 'assets/images/icons/14.png' />
+    <file src = 'assets/images/icons/calculadora.png' />
+    <file src = 'assets/images/icons/camera.png' />
+    <file src = 'assets/images/icons/config.png' />
+    <file src = 'assets/images/icons/contatos.png' />
+    <file src = 'assets/images/icons/instagram.png' />
+    <file src = 'assets/images/icons/msg.png' />
+    <file src = 'assets/images/icons/phone.png' />
+    <file src = 'assets/images/icons/photos.png' />
+    <file src = 'assets/images/icons/telegram.png' />
+
+    <!-- Camera -->
+    <file src = 'assets/images/camera/circle.png' />
+    <file src = 'assets/images/camera/bottom.png' />
+    <file src = 'assets/images/camera/border.png' />
+    <file src = 'assets/images/camera/rotate.png' />
+
+    <!-- Galeria -->
+    <file src = 'assets/images/galeria/trash.png' />
+
+    <!-- Phone APP -->
+    <file src = 'assets/images/phone-app/trash.png' />
+    <file src = 'assets/images/phone-app/teclado.png' />
+    <file src = 'assets/images/phone-app/phone.png' />
+    <file src = 'assets/images/phone-app/historic.png' />
+    <file src = 'assets/images/phone-app/edit.png' />
+    <file src = 'assets/images/phone-app/contatos.png' />
+    <file src = 'assets/images/phone-app/browse.png' />
+    <file src = 'assets/images/phone-app/avatar.png' />
+
+    <!-- Mensagens -->
+
+    <file src = 'assets/images/messages/circle.png' />
+    <file src = 'assets/images/messages/video.png' />
+    <file src = 'assets/images/messages/photo.png' />
+    <file src = 'assets/images/messages/expand.png' />
+    <file src = 'assets/images/messages/edit.png' />
+    <file src = 'assets/images/messages/back.png' />
+    
+    <!-- Fonts -->
+
+    <file src = 'assets/fonts/black.ttf' />
+    <file src = 'assets/fonts/bold.ttf' />
+    <file src = 'assets/fonts/heavy.ttf' />
+    <file src = 'assets/fonts/medium.ttf' />
+    <file src = 'assets/fonts/regular.ttf' />
+    <file src = 'assets/fonts/semibold.ttf' />
+
+    <min_mta_version client="1.3.0-9.04431"/>
+</meta>

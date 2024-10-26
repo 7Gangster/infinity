@@ -1,0 +1,29 @@
+<meta>
+    <oop>true</oop>
+    <info author = 'notrytv' name = 'Sistema De Staff' />
+
+    <script src="shared-g.lua" type="shared" cache="false" />
+    <script src="assets/api/Async.lua" type="shared" cache="false" />
+    <script src="assets/api/OopUtil.lua" type="shared" cache="false" />
+    <script src="assets/api/MTAUtil.lua" type="shared" cache="false" />
+    <file src="assets/assets/shader/shadow.fx" cache="false" />
+    <script src="assets/constructor/CommandHandler.lua" type="server" />
+    <script src="assets/commands/DestroyCommand.lua" type="server" />
+    <script src="assets/commands/StaffCommand.lua" type="server" />
+    <script src="assets/commands/PushCommand.lua" type="server" />
+    <script src="assets/commands/WallCommand.lua" type="server" />
+    <script src="assets/commands/CarCommand.lua" type="server" />
+    <script src="assets/commands/ClearCarsCommand.lua" type="server" />
+    <script src="assets/commands/ClearChatCommand.lua" type="server" />
+    <script src="assets/commands/FixCarCommand.lua" type="server" />
+    <script src="assets/commands/TpCommand.lua" type="server" />
+    <script src="assets/commands/BanCommand.lua" type="server" />
+    <script src="assets/manager/CommandManager.lua" type="server" />
+    <script src="assets/utils/FlyUtil.lua" type="client" cache="false" />
+    <script src="assets/utils/IDSystem.lua" type="shared" cache="false" />
+    <script src="assets/utils/NoShadow.lua" type="client" cache="false" />
+    <script src="assets/utils/WallSystem.lua" type="client" cache="false" />
+    <script src="assets/Main.lua" type="server" />
+        <min_mta_version client="1.5.9" server="1.5.9"/>
+
+</meta>

@@ -1,0 +1,32 @@
+<meta>
+    <info author="zJoaoFtw_" description="Script feito por zJoaoFtw_#5562" />
+
+    <script src="config.lua" type="shared" cache="false" />
+    <script src="sources/client/main.lua" type="client" cache="false" />
+    <script src="sources/server/main.lua" type="server" />
+    <script src="sources/shared/utils.lua" type="shared" cache="false" />
+    <script src="sources/shared/responsive.lua" type="client" cache="false" />
+
+    <file src="files/fonts/Roboto-Medium.ttf" />
+    <file src="files/fonts/Roboto-Regular.ttf" />
+    <file src="files/fonts/Roboto-Bold.ttf" />
+    <file src="files/fonts/Roboto-Light.ttf" />
+    <file src="files/fonts/Roboto-Black.ttf" />
+
+    <file src="files/imgs/shadow.png" />
+    <file src="files/imgs/base.png" />
+    <file src="files/imgs/pin.png" />
+    <file src="files/imgs/success.png" />
+    <file src="files/imgs/button.png" />
+    <file src="files/imgs/cages/blue.png" />
+    <file src="files/imgs/cages/pink.png" />
+    <file src="files/imgs/cages/purple.png" />
+    <file src="files/imgs/cages/red.png" />
+    <file src="files/imgs/cages/yellow.png" />
+    
+    <file src="files/imgs/itens/ak47.png" />
+    <file src="files/imgs/itens/hamburguer.png" />
+    <file src="files/imgs/itens/m4.png" />
+    <file src="files/imgs/itens/mp5.png" />
+    <file src="files/imgs/itens/sniper.png" />
+</meta>

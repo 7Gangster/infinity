@@ -1,0 +1,17 @@
+<meta>
+
+    <info author="Luccas" name="zn_portas" version="0.1" type="misc" />
+
+    <script src="Luccas_C.lua" type="client" cache="false" />
+    <script src="Luccas_S.lua" type="server" />
+
+    <!-- FILES -->
+
+    <file src="files/locked.png" />
+    <file src="files/unlocked.png" />
+
+    <!-- CFG -->
+
+    <script src="cfg/cfg.lua" type="shared" cache="false" />
+
+</meta>

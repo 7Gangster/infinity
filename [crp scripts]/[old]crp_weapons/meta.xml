@@ -1,0 +1,67 @@
+<meta>
+
+    <info author="Luccas" name="zn_armas" version="0.1" type="misc" />
+
+    <script src="Luccas_C.lua" type="client" cache="false" />
+    <script src="Luccas_S.lua" type="server" />
+
+    <!-- EXPORTS -->
+
+    <export function="ZNEquiparArma" type="shared" />
+    <export function="ZNGuardarArma" type="shared" />
+    <export function="ZNEquiparAttachs" type="shared" />
+
+    <!-- CFG -->
+
+    <script src="cfg/cfg.lua" type="shared" cache="false"/>
+
+    <!-- FILES -->
+
+    <file src="files/ak103.txd"/>
+    <file src="files/ak103.dff"/>
+    <file src="files/faca.txd"/>
+    <file src="files/faca.dff"/>
+    <file src="files/frajuta.txd"/>
+    <file src="files/frajuta.dff"/>
+    <file src="files/g36c.txd"/>
+    <file src="files/g36c.dff"/>
+    <file src="files/garrafa.txd"/>
+    <file src="files/garrafa.dff"/>
+    <file src="files/glock.txd"/>
+    <file src="files/glock.dff"/>
+    <file src="files/imbel.txd"/>
+    <file src="files/imbel.dff"/>
+    <file src="files/machado.txd"/>
+    <file src="files/machado.dff"/>
+    <file src="files/martelo.txd"/>
+    <file src="files/martelo.dff"/>
+    <file src="files/mp5.txd"/>
+    <file src="files/mp5.dff"/>
+    <file src="files/scar.txd"/>
+    <file src="files/scar.dff"/>
+    <file src="files/shotgun.txd"/>
+    <file src="files/shotgun.dff"/>
+    <file src="files/skorpion.txd"/>
+    <file src="files/skorpion.dff"/>
+    <file src="files/winchester.txd"/>
+    <file src="files/winchester.dff"/>
+    <file src="files/taurus.txd"/>
+    <file src="files/taurus.dff"/>
+    <file src="files/microsmg.txd"/>
+    <file src="files/microsmg.dff"/>
+    <file src="files/silenciadora.txd"/>
+    <file src="files/silenciadora.dff"/>
+    <file src="files/mira1.dff"/>
+    <file src="files/coronha.dff"/>
+    <file src="files/revolver.txd"/>
+    <file src="files/revolver.dff"/>
+    <file src="files/makita.txd"/>
+    <file src="files/makita.dff"/>
+    <file src="files/soqueira.dff"/>
+
+    <file src="files/nill.txd"/>
+    <file src="files/nill.dff"/>
+    <file src="files/anim1.ifp"/>
+    <file src="files/anim2.ifp"/>
+
+</meta>

@@ -1,0 +1,16 @@
+<map edf:definitions="editor_main">
+    <object id="object (w_test) (1)" breakable="false" interior="0" alpha="255" dimension="0" model="1976" scale="1" doublesided="false" collisions="true" posX="2430.8999" posY="-1779.8" posZ="15.1" rotX="0" rotY="0" rotZ="0"></object>
+    <removeWorldObject id="removeWorldObject (Stripbar_lae) (1)" radius="23.7787" interior="-1" model="17523" lodModel="17765" posX="2436.2188" posY="-1788.5625" posZ="15.02344" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (Foodmart1_lan) (1)" radius="18.540869" interior="-1" model="4022" lodModel="4191" posX="1353.2578" posY="-1764.5312" posZ="15.59375" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (Gen_doorEXT11) (1)" radius="3.4591658" interior="-1" model="1532" lodModel="0" posX="1353.1328" posY="-1759.6562" posZ="12.5" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <object id="object (w_test) (3)" breakable="false" interior="0" alpha="255" dimension="0" model="1976" scale="1" doublesided="false" collisions="true" posX="1351.8" posY="-1766.6" posZ="15" rotX="0" rotY="0" rotZ="-90"></object>
+    <object id="object (a51_jetdoor) (1)" breakable="false" interior="0" alpha="255" dimension="0" model="3095" scale="1" doublesided="false" collisions="true" posX="1341.5" posY="-1764.1" posZ="11.9" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (a51_jetdoor) (2)" breakable="false" interior="0" alpha="255" dimension="0" model="3095" scale="0" doublesided="false" collisions="true" posX="1342.5" posY="-1771" posZ="11.9" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (a51_jetdoor) (3)" breakable="false" interior="0" alpha="255" dimension="0" model="3095" scale="0" doublesided="false" collisions="true" posX="1361.5" posY="-1772.2" posZ="11.9" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (a51_jetdoor) (4)" breakable="false" interior="0" alpha="255" dimension="0" model="3095" scale="0" doublesided="false" collisions="true" posX="1361.4" posY="-1763.5" posZ="11.9" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (w_test) (5)" breakable="false" interior="0" alpha="255" dimension="0" model="1976" scale="1" doublesided="false" collisions="true" posX="609.20001" posY="-1516.2" posZ="16.6" rotX="0" rotY="0" rotZ="-180"></object>
+    <object id="object (w_test) (6)" breakable="false" interior="0" alpha="255" dimension="0" model="1976" scale="1" doublesided="false" collisions="true" posX="664.70001" posY="-616.59998" posZ="17.9" rotX="0" rotY="0" rotZ="-90"></object>
+    <removeWorldObject id="removeWorldObject (DYN_BOX_PILE_3) (1)" radius="3.6364884" interior="-1" model="1440" lodModel="0" posX="661.07813" posY="-624.00781" posZ="15.8125" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (mlamppost) (1)" radius="7.969655" interior="-1" model="1294" lodModel="0" posX="673.09375" posY="-624.38281" posZ="19.85156" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (CJ_Dumpster) (1)" radius="3.5106287" interior="-1" model="1345" lodModel="0" posX="668.21094" posY="-624.44531" posZ="16.0625" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+</map>

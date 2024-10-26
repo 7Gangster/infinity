@@ -1,0 +1,10 @@
+<meta>
+	
+	<script src="replace.lua" type="client" />
+	
+	
+	<file src="models/twsp.dff" />
+	<file src="models/twsp.col" />
+	<file src="models/twsp.txd" />
+	
+</meta>

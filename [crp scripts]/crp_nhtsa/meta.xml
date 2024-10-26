@@ -1,0 +1,16 @@
+<meta>
+	<!-- Auto generated using VSCode MTA:SA Lua by Subtixx -->
+	<info author="agatreix" type="script" name="crp_detran" version="1.0" />
+	<script src="cfg.lua" type="shared" />
+
+	<script src="src/client/main.lua" type="client" />
+	<script src="src/client/responsive.lua" type="client" />
+	<script src="src/server/main.lua" type="server" />
+
+	<file src="src/assets/fonts/Roboto-Bold.ttf" />
+	<file src="src/assets/fonts/Roboto-Medium.ttf" />
+	<file src="src/assets/fonts/Roboto-Regular.ttf" />
+	
+	<file src="src/assets/logo.png" />
+
+</meta>

@@ -1,0 +1,10 @@
+<meta>
+    <info author = 'notrytv' name = 'Gps' />
+
+	<script src="client.lua" type="client" />
+	<file src="fonts/Inter-Bold.ttf" />
+	<file src="fonts/regular.ttf" />
+	<file src="assets/location.png" />
+	<file src="assets/back_loc.png" />
+	<file src="assets/backgraund.png" />
+</meta>

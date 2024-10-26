@@ -1,0 +1,7 @@
+<meta>
+    <info author="Lionel" name="Lionel" version="1.6" type="script" />
+    <script src="replace.lua" type="client" cache="false" />
+	<file src="Motoclub.dff" />
+	<file src="Motoclub.col" />
+	<file src="Motoclub.txd" />
+</meta>

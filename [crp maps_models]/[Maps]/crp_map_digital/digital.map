@@ -1,0 +1,8 @@
+<map edf:definitions="editor_main">
+    <object id="object (kb_swivelchair1) (1)" breakable="false" interior="0" alpha="255" dimension="0" model="1714" scale="1" doublesided="false" collisions="true" posX="1286.5" posY="-1594.9" posZ="12.5" rotX="0" rotY="0" rotZ="-146"></object>
+    <object id="object (wglasssmash) (2)" breakable="false" interior="0" alpha="255" dimension="0" model="1649" scale="0.80000001" doublesided="true" collisions="true" posX="1286.1" posY="-1587.7" posZ="14.4" rotX="0" rotY="0" rotZ="135"></object>
+    <object id="object (wglasssmash) (3)" breakable="false" interior="0" alpha="255" dimension="0" model="1649" scale="0.80000001" doublesided="true" collisions="true" posX="1282.15" posY="-1583.8" posZ="14.4" rotX="0" rotY="0" rotZ="134.498"></object>
+    <object id="object (wglasssmash) (4)" breakable="false" interior="0" alpha="255" dimension="0" model="1649" scale="1" doublesided="true" collisions="true" posX="1278.2" posY="-1582.4" posZ="14.4" rotX="0" rotY="0" rotZ="-180"></object>
+    <object id="object (wglasssmash) (5)" breakable="false" interior="0" alpha="255" dimension="0" model="1649" scale="1" doublesided="true" collisions="true" posX="1287.2998" posY="-1591.4004" posZ="14.2" rotX="0" rotY="0" rotZ="90.5"></object>
+    <object id="object (wglasssmash) (6)" breakable="false" interior="0" alpha="255" dimension="0" model="1649" scale="1" doublesided="true" collisions="true" posX="1273.8" posY="-1582.4" posZ="14.4" rotX="0" rotY="0" rotZ="179.995"></object>
+</map>

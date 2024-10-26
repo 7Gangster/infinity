@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<meta>
+     <info author="cafe" type="misc" name="cafe" description="cafe" />
+     <script src="script.lua" type="client" />
+
+
+
+
+     <file src="models/crown.txd" />
+     <file src="models/crown.dff" />
+
+     <file src="models/taurus.txd" />
+     <file src="models/taurus.dff" />
+
+     <file src="models/explorer.txd" />
+     <file src="models/explorer.dff" />
+
+     <file src="models/van.txd" />
+     <file src="models/van.dff" />
+
+     <file src="models/moto.txd" />
+     <file src="models/moto.dff" />
+
+     <file src="models/maverick.txd" />
+     <file src="models/maverick.dff" />
+
+     <file src="models/dodge.txd" />
+     <file src="models/dodge.dff" />
+
+     <file src="models/ambulance.txd" />
+     <file src="models/ambulance.dff" />
+
+</meta>

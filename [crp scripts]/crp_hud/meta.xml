@@ -1,0 +1,18 @@
+<meta>
+	<!-- Auto generated using VSCode MTA:SA Lua by Subtixx -->
+	<info author="agatreix" type="script" name="crp_hud" version="2.0" />
+
+	<script src="src/client/velocimetroStroke.lua" type="client" cache='false' />
+	<script src="src/client/stroke.lua" type="client" cache='false' />
+	<script src="src/client/main.lua" type="client" cache='false'/>
+	<script src="src/client/responsive.lua" type="client" cache='false' />
+	<script src="src/server.lua" type="server" cache='false' />
+
+	<export function='setVisible' type='client'/>
+	<export function='setVisible' type='server'/>
+
+	<file src="src/assets/bg.png" />
+	<file src="src/assets/logo.png" />
+	<file src="src/assets/Ubuntu-Regular.ttf" />
+	<file src="src/assets/Ubuntu-Medium.ttf" />
+</meta>

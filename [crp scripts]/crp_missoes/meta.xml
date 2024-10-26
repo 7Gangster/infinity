@@ -1,0 +1,18 @@
+<meta>
+	<!-- Auto generated using VSCode MTA:SA Lua by Subtixx -->
+	<info author="agatreix" type="script" name="Missoes Ilegais" version="0.1.0" />
+	<script src="cfg.lua" type="shared" cache='false' />
+
+	<script src="src/server/main.lua" type="server" cache='false' />
+
+	<script src="src/client/main.lua" type="client" cache='false' />
+	<script src="src/client/responsive.lua" type="client" cache='false' />
+
+	<!-- Minigames -->
+	<script src="src/client/minigames/hacker.lua" type="client" />
+
+	<file src='src/assets/UbuntuMono-Regular.ttf'/>
+	<file src='src/assets/Roboto.ttf'/>
+	<file src='src/assets/hacker.png'/>
+    <file src='src/assets/hacker.wav'/>
+</meta>

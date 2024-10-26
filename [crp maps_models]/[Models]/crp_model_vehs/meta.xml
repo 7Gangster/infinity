@@ -1,0 +1,104 @@
+<meta>
+
+    <info author="Luccas" name="zn_downloads_veh" version="0.1" type="misc" />
+
+    <script src="Luccas_C.lua" type="client" cache="false" />
+
+    <!-- VEÍCULOS -->
+
+    <file src="files/veiculos/caminhao.dff" download="false" />
+    <file src="files/veiculos/caminhao.txd" download="false" />
+    <file src="files/veiculos/gb.dff" download="false" />
+    <file src="files/veiculos/gb.txd" download="false" />
+    <file src="files/veiculos/Brioso.dff" download="false" />
+    <file src="files/veiculos/Brioso.txd" download="false" />
+    <file src="files/veiculos/panto.dff" download="false" />
+    <file src="files/veiculos/panto.txd" download="false" />
+    <file src="files/veiculos/futo.dff" download="false" />
+    <file src="files/veiculos/futo.txd" download="false" />
+    <file src="files/veiculos/sabre.dff" download="false" />
+    <file src="files/veiculos/sabre.txd" download="false" />
+    <file src="files/veiculos/glautent.dff" download="false" />
+    <file src="files/veiculos/glautent.txd" download="false" />
+    <file src="files/veiculos/burrito.dff" download="false" />
+    <file src="files/veiculos/burrito.txd" download="false" />
+    <file src="files/veiculos/baller.dff" download="false" />
+    <file src="files/veiculos/baller.txd" download="false" />
+    <file src="files/veiculos/felon.dff" download="false" />
+    <file src="files/veiculos/felon.txd" download="false" />
+    <file src="files/veiculos/voodo.dff" download="false" />
+    <file src="files/veiculos/voodo.txd" download="false" />
+    <file src="files/veiculos/faction.dff" download="false" />
+    <file src="files/veiculos/faction.txd" download="false" />
+    <file src="files/veiculos/chino.dff" download="false" />
+    <file src="files/veiculos/chino.txd" download="false" />
+    <file src="files/veiculos/moonbeam.dff" download="false" />
+    <file src="files/veiculos/moonbeam.txd" download="false" />
+    <file src="files/veiculos/buccaner.dff" download="false" />
+    <file src="files/veiculos/buccaner.txd" download="false" />
+    <file src="files/veiculos/buffalo.dff" download="false" />
+    <file src="files/veiculos/buffalo.txd" download="false" />
+    <file src="files/veiculos/comet.dff" download="false" />
+    <file src="files/veiculos/comet.txd" download="false" />
+    <file src="files/veiculos/9f.dff" download="false" />
+    <file src="files/veiculos/9f.txd" download="false" />
+    <file src="files/veiculos/jester.dff" download="false" />
+    <file src="files/veiculos/jester.txd" download="false" />
+    <file src="files/veiculos/sultan.dff" download="false" />
+    <file src="files/veiculos/sultan.txd" download="false" />
+    <file src="files/veiculos/r34.dff" download="false" />
+    <file src="files/veiculos/r34.txd" download="false" />
+    <file src="files/veiculos/r35.dff" download="false" />
+    <file src="files/veiculos/r35.txd" download="false" />
+    <file src="files/veiculos/meca.dff" download="false" />
+    <file src="files/veiculos/meca.txd" download="false" />
+    <file src="files/veiculos/supra.dff" download="false" />
+    <file src="files/veiculos/supra.txd" download="false" />
+    <file src="files/veiculos/slamvan.dff" download="false" />
+    <file src="files/veiculos/slamvan.txd" download="false" />
+    <file src="files/veiculos/trash.dff" download="false" />
+    <file src="files/veiculos/trash.txd" download="false" />
+
+    <file src="files/veiculos/faggio.dff" download="false" />
+    <file src="files/veiculos/faggio.txd" download="false" />
+    <file src="files/veiculos/sanchez.dff" download="false" />
+    <file src="files/veiculos/sanchez.txd" download="false" />
+    <file src="files/veiculos/vader.dff" download="false" />
+    <file src="files/veiculos/vader.txd" download="false" />
+    <file src="files/veiculos/bati.dff" download="false" />
+    <file src="files/veiculos/bati.txd" download="false" />
+    <file src="files/veiculos/carbon.dff" download="false" />
+    <file src="files/veiculos/carbon.txd" download="false" />
+    <file src="files/veiculos/quad.dff" download="false" />
+    <file src="files/veiculos/quad.txd" download="false" />
+    <file src="files/veiculos/western.dff" download="false" />
+    <file src="files/veiculos/western.txd" download="false" />
+    <file src="files/veiculos/deluxe.dff" download="false" />
+    <file src="files/veiculos/deluxe.txd" download="false" />
+
+
+
+
+    <!-- RODAS
+
+    <file src="files/wheels/0.txd" download="false" />
+
+    <file src="files/wheels/1.dff" download="false" />
+    <file src="files/wheels/2.dff" download="false" />
+    <file src="files/wheels/3.dff" download="false" />
+    <file src="files/wheels/4.dff" download="false" />
+    <file src="files/wheels/5.dff" download="false" />
+    <file src="files/wheels/6.dff" download="false" />
+    <file src="files/wheels/7.dff" download="false" />
+    <file src="files/wheels/8.dff" download="false" />
+    <file src="files/wheels/9.dff" download="false" />
+    <file src="files/wheels/10.dff" download="false" />
+    <file src="files/wheels/11.dff" download="false" />
+    <file src="files/wheels/12.dff" download="false" />
+    <file src="files/wheels/13.dff" download="false" />
+    <file src="files/wheels/14.dff" download="false" />
+    <file src="files/wheels/15.dff" download="false" />
+    <file src="files/wheels/16.dff" download="false" />
+    <file src="files/wheels/17.dff" download="false" /> -->
+
+</meta>

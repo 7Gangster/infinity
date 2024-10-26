@@ -1,0 +1,19 @@
+<meta>
+	<!-- Auto generated using VSCode MTA:SA Lua by Subtixx -->
+	<info author="agatreix" type="script" name="Sistema policial" version="0.1.0" />
+
+	<script src="cfg.lua" type="shared" cache='false'/>
+
+	<script src="src/client/responsive.lua" type="client" cache='false' />
+	<script src="src/client/svg.lua"type="client" cache='false' />
+	<script src="src/client/tablet.lua" type="client" cache='false' />
+	<script src="src/server/tablet.lua" type="server" />
+
+	<!-- Assets -->
+	<file src="src/assets/fonts/Roboto-Bold.ttf" />
+	<file src="src/assets/fonts/Roboto-Medium.ttf" />
+	<file src="src/assets/fonts/Roboto-Regular.ttf" />
+
+	<file src="src/assets/ficha.png" />
+	<file src="src/assets/handcuff.png" />
+</meta>

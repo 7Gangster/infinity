@@ -1,0 +1,11 @@
+<meta>
+    <info author="Moon Studio" name="hash test" version="08.08.2020" />
+    <oop>true</oop>
+    <script src="interior/CLocker.lua" type="client" cache="false" />
+    <file src='interior/6157txd.NewMixMTA' />
+    <file src='interior/6157dff.NewMixMTA' />
+    <file src='interior/6157col.NewMixMTA' />
+    <map src="interior/mecanica.map" dimension="0"></map>
+
+</meta>
+ 

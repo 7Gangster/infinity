@@ -1,0 +1,27 @@
+<meta>
+	<!-- Auto generated using VSCode MTA:SA Lua by Subtixx -->
+	<info author="VSCode MTA:SA Lua" type="script" name="crp_notify" version="0.1.0" />
+	<script src="client.lua" type="client" cache='false' />
+	<script src="server.lua" type="server"  />
+	<script src="settings.lua" type="shared" cache='false' />
+
+	<file src="web-side/jquery.js" cache="false" />
+	<file src="web-side/jquery-3.6.0.min.js" cache="false"  />
+	<file src="web-side/jquery-ui.min.js" cache="false" />
+	<file src="web-side/app.js" cache="false" />
+	<file src="web-side/index.html" cache="false"/>
+	<file src="web-side/style.css" cache="false"/>
+
+	<file src="web-side/images/blood.png" />
+	<file src="web-side/images/cancel.png" />
+	<file src="web-side/images/check.png" />
+	<file src="web-side/images/hunger.png" />
+	<file src="web-side/images/important.png" />
+	<file src="web-side/images/locked.png" />
+	<file src="web-side/images/ring.png" />
+	<file src="web-side/images/thirst.png" />
+	<file src="web-side/images/unlocked.png" />
+
+	<export function='addBox' type='server'/>
+	<export function='addBox' type='client'/>
+</meta>

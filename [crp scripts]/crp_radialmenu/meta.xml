@@ -1,0 +1,29 @@
+<meta>
+	<!-- Auto generated using VSCode MTA:SA Lua by Subtixx -->
+	<info author="agatreix" type="script" name="crp_menu" version="1.0" />
+	<script src="cfg.lua" type="shared" />
+
+	<script src="src/utils/responsive.lua" type="client" cache = 'false'/>
+	<script src="src/client/main.lua" type="client" cache = 'false'/>
+	<script src="src/client/svg.lua" type="client" cache = 'false'/>
+
+	<script src="src/server/interactions.lua" type="server" />
+	<script src="src/server/main.lua" type="server" />
+
+	<file src="src/assets/fonts/Poppins-Bold.ttf" />
+	<file src="src/assets/fonts/Poppins-Medium.ttf" />
+	<file src="src/assets/fonts/Poppins-Regular.ttf" />
+	<file src="src/assets/fonts/Poppins-SemiBold.ttf" />
+
+	<!-- Icons -->
+	<file src="src/assets/icons/player.png" />
+	<file src="src/assets/icons/vehicle.png" />
+	<file src="src/assets/icons/arrest.png" />
+	<file src="src/assets/icons/dance.png" />
+	<file src="src/assets/icons/door.png" />
+	<file src="src/assets/icons/prison.png" />
+	<file src="src/assets/icons/walk.png" />
+	<file src="src/assets/icons/work.png" />
+	<file src="src/assets/icons/fueling.png" />
+
+</meta>

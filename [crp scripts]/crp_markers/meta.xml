@@ -1,0 +1,67 @@
+<meta>
+	<oop>true</oop>
+	<info author="Duud e RicK" type="script" name="Marker Nova RP" />
+    
+	<!-- Server -->
+	<script src="server/marker_creation.lua" type="server" />
+	
+	<!-- Client -->
+	<script src="client/marker_drawing.lua" type="client" />
+	<script src="client/marker_creation.lua" type="client" />
+
+	<!-- Export -->
+	<export type="shared" function="createMarker"/>
+
+	<!-- Icons -->
+	<file src="assets/icons/ammunation.png" />
+	<file src="assets/icons/anonymous.png" />
+	<file src="assets/icons/astronaut.png" />
+	<file src="assets/icons/bank.png" />
+	<file src="assets/icons/bus.png" />
+	<file src="assets/icons/business.png" />
+	<file src="assets/icons/carshop.png" />
+	<file src="assets/icons/clothes.png" />
+	<file src="assets/icons/club.png" />
+	<file src="assets/icons/crips.png" />
+	<file src="assets/icons/cybernet.png" />
+	<file src="assets/icons/document.png" />
+	<file src="assets/icons/door.png" />
+	<file src="assets/icons/food.png" />
+	<file src="assets/icons/food_market.png" />
+	<file src="assets/icons/gas_station.png" />
+	<file src="assets/icons/get_car.png" />
+	<file src="assets/icons/get_carpolice.png" />
+	<file src="assets/icons/get_service.png" />
+	<file src="assets/icons/hairstyle.png" />
+	<file src="assets/icons/house.png" />
+	<file src="assets/icons/invisible.png" />
+	<file src="assets/icons/jobs.png" />
+	<file src="assets/icons/lavanderia.png" />
+	<file src="assets/icons/lowriders.png" />
+	<file src="assets/icons/marker.png" />
+	<file src="assets/icons/market.png" />
+	<file src="assets/icons/office.png" />
+	<file src="assets/icons/police.png" />
+	<file src="assets/icons/porte.png" />
+	<file src="assets/icons/prisioneiro.png" />
+	<file src="assets/icons/repair.png" />
+	<file src="assets/icons/roadside.png" />
+	<file src="assets/icons/rotation.png" />
+	<file src="assets/icons/satelite.png" />
+	<file src="assets/icons/scrap.png" />
+	<file src="assets/icons/store_boat.png" />
+	<file src="assets/icons/store_car.png" />
+	<file src="assets/icons/taxi.png" />
+	<file src="assets/icons/truck.png" />
+	<file src="assets/icons/varal.png" />
+	<file src="assets/icons/weights.png" />
+	<file src="assets/icons/office.png" />
+	<file src="assets/icons/pmesp.png" />
+	<file src="assets/icons/rota.png" />
+	<file src="assets/icons/forca_tatica.png" />
+
+
+	<!-- Fontes -->
+	<file src="assets/font.otf" />
+	<file src="assets/ring.png" />
+</meta>

@@ -1,0 +1,20 @@
+<meta>
+    <!-- DEPENDENCIES -->
+    <oop>true</oop>
+    <!-- SCRIPT's CONFIG's -->
+    <script src = "config.lua" cache = "false" type = "shared"/>
+    <!-- SCRIPT's REQUIREMENT's -->
+    <script src = "src/utils/main-g.lua" cache = "false" type = "shared"/>
+    <script src = "src/utils/main-c.lua" cache = "false" type = "client"/>
+    <!-- SCRIPT's CLIENT's -->
+    <script src = "src/client/main-c.lua" cache = "false" type="client"/>
+    <!-- SCRIPT's SERVER's -->
+    <script src = "src/server/main-s.lua" type="server"/>
+    <!-- FILE's IMAGE's -->
+    <file src = "assets/images/backg.png"/>
+    <file src = "assets/images/line.png"/>
+    <file src = "assets/images/radius.png"/>
+    <file src = "assets/images/row.png"/>
+    <!-- FILE's FONT's -->
+    <file src = "assets/fonts/RobotoCondensed-Regular.ttf"/>
+</meta>

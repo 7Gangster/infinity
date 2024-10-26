@@ -1,0 +1,47 @@
+<meta>
+	<!-- Auto generated using VSCode MTA:SA Lua by Subtixx -->
+	<info author="VSCode MTA:SA Lua" type="script" name="crp_weapons" version="0.1.0" />
+	<script src="cfg.lua" type="shared" />
+	<script src="src/client/loader.lua" type="client" />
+	<script src="src/client/main.lua" type="client" />
+	<script src="src/server/main.lua" type="server" />
+
+	<file src='src/weapons/ar15.txd' />
+	<file src='src/weapons/ar15.dff' />
+	<file src='src/weapons/fx05.txd' />
+	<file src='src/weapons/fx05.dff' />
+	<file src='src/weapons/beretta.txd' />
+	<file src='src/weapons/beretta.dff' />
+	<file src='src/weapons/glock.txd' />
+	<file src='src/weapons/glock.dff' />
+	<file src='src/weapons/micro-uzi.txd' />
+	<file src='src/weapons/micro-uzi.dff' />
+
+	<file src='src/textures/ar15/body.png'/>
+	<file src='src/textures/ar15/silenciador.png'/>
+	<file src='src/textures/ar15/mira.png'/>
+	<file src='src/textures/ar15/lanterna.png'/>
+
+	<file src='src/textures/fx05/body.png'/>
+	<file src='src/textures/fx05/silenciador.png'/>
+	<file src='src/textures/fx05/mira.png'/>
+	<file src='src/textures/fx05/lanterna.png'/>
+
+	<file src='src/textures/beretta/body.png'/>
+	<file src='src/textures/beretta/silenciador.png'/>
+	<file src='src/textures/beretta/lanterna.png'/>
+
+	<file src='src/textures/glock/body.png'/>
+	<file src='src/textures/glock/silenciador.png'/>
+	<file src='src/textures/glock/lanterna.png'/>
+
+	<file src='src/textures/micro-uzi/body.png'/>
+	<file src='src/textures/micro-uzi/silenciador.png'/>
+	<file src='src/textures/micro-uzi/lanterna.png'/>
+
+	<export function = 'equiparArma' type='server'/>
+	<export function = 'desequiparArma' type='server'/>
+	<export function = 'equiparAttach' type='server'/>
+	<export function = 'getWeapon' type='server'/>
+	
+</meta>

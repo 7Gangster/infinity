@@ -1,0 +1,163 @@
+<meta>
+	<!-- Auto generated using VSCode MTA:SA Lua by Subtixx -->
+	<info author="agatreix" type="script" name="crp_core" version="1.0" />
+
+	<script src="cfg.lua" type="shared" cache='false' />
+	<script src="src/utils/async.lua" type="shared" cache='false' />
+
+	<script src="src/client/main.lua" type="client" cache='false' />
+	<script src="src/client/loader.lua" type="client" cache='false' />
+	<script src="src/server/main.lua" type="server" />
+
+	<script src="src/utils/responsive.lua" type="client" cache='false' />
+	<script src="src/utils/utilsC.lua" type="client" cache='false' />
+	<script src="src/utils/utilsS.lua" type="server" />
+
+	<!-- Sounds -->
+
+	<file src='src/assets/sounds/engine.mp3' cache='false'/>
+	<file src='src/assets/sounds/roupa.mp3' cache='false'/>
+	<file src='src/assets/sounds/unlock.mp3' cache='false'/>
+	<file src='src/assets/sounds/colocandoCinto.mp3' cache='false'/>
+	<file src='src/assets/sounds/tirandoCinto.mp3' cache='false'/>
+	<file src='src/assets/sounds/alertaCinto.mp3' cache='false'/>
+
+	<!-- Vehicles -->
+
+    <file src="src/assets/vehicles/zr350.dff" />
+    <file src="src/assets/vehicles/zr350.txd" />
+    <file src="src/assets/vehicles/clover.dff" />
+    <file src="src/assets/vehicles/clover.txd" />
+    <file src="src/assets/vehicles/ambulan.dff" />
+    <file src="src/assets/vehicles/ambulan.txd" />
+
+    <file src="src/assets/vehicles/willardfaction.dff" />
+    <file src="src/assets/vehicles/willardfaction.txd" />
+    <file src="src/assets/vehicles/willard.dff" />
+    <file src="src/assets/vehicles/willard.txd" />
+    <file src="src/assets/vehicles/voodoo.dff" />
+    <file src="src/assets/vehicles/voodoo.txd" />
+    <file src="src/assets/vehicles/tornado.dff" />
+    <file src="src/assets/vehicles/tornado.txd" />
+    <file src="src/assets/vehicles/topfun.dff" />
+    <file src="src/assets/vehicles/topfun.txd" />
+    <file src="src/assets/vehicles/sabre.dff" />
+    <file src="src/assets/vehicles/sabre.txd" />
+    <file src="src/assets/vehicles/rancher.dff" />
+    <file src="src/assets/vehicles/rancher.txd" />
+    <file src="src/assets/vehicles/primo.dff" />
+    <file src="src/assets/vehicles/primo.txd" />
+    <file src="src/assets/vehicles/manana.dff" />
+    <file src="src/assets/vehicles/manana.txd" />
+    <file src="src/assets/vehicles/impaler.dff" />
+    <file src="src/assets/vehicles/impaler.txd" />
+    <file src="src/assets/vehicles/huntley.dff" />
+    <file src="src/assets/vehicles/huntley.txd" />
+    <file src="src/assets/vehicles/greenwoo.dff" />
+    <file src="src/assets/vehicles/greenwoo.txd" />
+    <file src="src/assets/vehicles/glendale.dff" />
+    <file src="src/assets/vehicles/glendale.txd" />
+    <file src="src/assets/vehicles/emperor.dff" />
+    <file src="src/assets/vehicles/emperor.txd" />
+    <file src="src/assets/vehicles/buccanee.dff" />
+    <file src="src/assets/vehicles/buccanee.txd" />
+    <file src="src/assets/vehicles/blade.dff" />
+    <file src="src/assets/vehicles/blade.txd" />
+    <file src="src/assets/vehicles/alpha.dff" />
+    <file src="src/assets/vehicles/alpha.txd" />
+
+    <file src="src/assets/vehicles/admiral.dff" />
+    <file src="src/assets/vehicles/admiral.txd" />
+    <file src="src/assets/vehicles/elegant.dff" />
+    <file src="src/assets/vehicles/elegant.txd" />
+    <file src="src/assets/vehicles/landstal.dff" />
+    <file src="src/assets/vehicles/landstal.txd" />
+    <file src="src/assets/vehicles/peren.dff" />
+    <file src="src/assets/vehicles/peren.txd" />
+
+
+    <!-- OBJETOS -->
+
+    <file src="src/assets/objetos/vaper.dff"/>
+    <file src="src/assets/objetos/vaper.txd"/>
+
+    <file src="src/assets/objetos/hotdog.dff"/>
+    <file src="src/assets/objetos/hotdog.txd"/>
+
+    <file src="src/assets/objetos/cafe.dff"/>
+    <file src="src/assets/objetos/cafe.txd"/>
+
+    <file src="src/assets/objetos/agua.dff"/>
+    <file src="src/assets/objetos/agua.txd"/>
+
+    <file src="src/assets/objetos/bandagem.dff"/>
+    <file src="src/assets/objetos/bandagem.txd"/>
+
+    <file src="src/assets/objetos/kit.dff"/>
+    <file src="src/assets/objetos/kit.txd"/>
+
+    <file src="src/assets/objetos/analgesico.dff"/>
+    <file src="src/assets/objetos/analgesico.txd"/>
+
+    <file src="src/assets/objetos/energetico.txd"/>
+    <file src="src/assets/objetos/aguasuja.txd"/>
+
+    <file src="src/assets/objetos/donut.dff"/>
+    <file src="src/assets/objetos/donut.txd"/>
+
+    <file src="src/assets/objetos/cilindro.dff"/>
+    <file src="src/assets/objetos/cilindro.txd"/>
+
+    <file src="src/assets/objetos/respirador.dff"/>
+    <file src="src/assets/objetos/respirador.txd"/>
+
+    <file src="src/assets/objetos/oculos.dff"/>
+    <file src="src/assets/objetos/oculos.txd"/>
+
+    <file src="src/assets/objetos/vara.dff"/>
+    <file src="src/assets/objetos/vara.txd"/>
+
+    <file src="src/assets/objetos/celular.dff"/>
+    <file src="src/assets/objetos/celular.txd"/>
+
+    <file src="src/assets/objetos/bag-ifood.dff"/>
+    <file src="src/assets/objetos/bag-ifood.txd"/>
+
+    <file src="src/assets/objetos/tablet.dff"/>
+    <file src="src/assets/objetos/tablet.txd"/>
+
+    <file src="src/assets/objetos/algema.dff"/>
+    <file src="src/assets/objetos/algema.txd"/>
+
+    <file src="src/assets/objetos/vassoura.dff"/>
+    <file src="src/assets/objetos/vassoura.txd"/>
+
+    <file src="src/assets/objetos/prancheta.dff"/>
+    <file src="src/assets/objetos/prancheta.txd"/>
+
+    <file src="src/assets/objetos/suco.dff"/>
+    <file src="src/assets/objetos/suco.txd"/>
+
+    <file src="src/assets/objetos/308.txd"/>
+    <file src="src/assets/objetos/308.dff"/>
+
+    <file src="src/assets/objetos/kid.txd"/>
+    <file src="src/assets/objetos/kid.dff"/>
+
+    <file src="src/assets/objetos/skin.txd"/>
+    <file src="src/assets/objetos/skin.dff"/>
+
+    <!-- Som Armas -->
+    <file src="src/assets/sfx_armas/sniper.wav" />
+	<file src="src/assets/sfx_armas/ak.wav" />
+	<file src="src/assets/sfx_armas/m4.wav" />
+	<file src="src/assets/sfx_armas/mp5.wav" />
+	<file src="src/assets/sfx_armas/tec9.wav" />
+	<file src="src/assets/sfx_armas/escopeta.mp3" />
+	<file src="src/assets/sfx_armas/deagle.wav" />
+	<file src="src/assets/sfx_armas/five.wav" />
+    <file src="src/assets/sfx_armas/m1911.wav" />
+
+	<oop>true</oop>
+
+</meta>
